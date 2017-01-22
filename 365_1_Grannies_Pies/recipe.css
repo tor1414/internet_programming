@@ -1,0 +1,58 @@
+/*
+Victoria L. Hagan
+Folder: victoria014
+CSC 365: HW 1
+Recipe.css
+Due: 09/15/2014
+Extra Features:
+1: Background
+3: Pie Bullet
+4: Wide Headings
+5: Tight Heading Background
+*/
+
+a {
+color: rgb(164,164,0);}
+
+abbr {
+border-bottom: .1em solid; }
+
+blockquote {
+background-color: rgb(255, 255, 168);
+font-style: italic;}
+
+body {
+background-color:white;
+background-image: url(silverware.jpg);
+color: rgb(64,64,64);
+font-family: Georgia, Garamond, serif;
+font-size: 18pt;
+ }
+
+div {
+text-align: center;}
+
+h1 {
+text-align: center;
+background-color: rgb(240,240,240); 
+color: rgb(164,164,0);
+display: inline;
+font-family: 'Lucida Sans Unicode', Helvetica, arial, sans-serif;
+font-size: 22pt;
+font-weight: bold;
+letter-spacing: 0.25em;
+text-decoration:underline;
+width: 70%;}
+
+h2 { 
+background-color: rgb(240,240,240); 
+color: rgb(164,164,0);
+display: inline;
+font-family: 'Lucida Sans Unicode', Helvetica, arial, sans-serif;
+font-size: 18pt;
+font-weight: normal;
+letter-spacing: 0.25em;
+text-decoration: underline; }
+
+ul { 
+list-style-image: url(pie_icon.gif)}

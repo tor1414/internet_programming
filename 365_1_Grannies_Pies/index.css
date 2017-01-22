@@ -1,0 +1,50 @@
+/*
+Victoria L. Hagan
+Folder: victoria014
+CSC 365: HW 1
+index.css
+Due: 09/15/2014
+Extra Features:
+1: Background
+3: Pie Bullet
+4: Wide Headings
+5: Tight Heading Background
+*/
+
+a {
+text-align: center; 
+color: rgb(164,164,0);}
+
+body {
+background-color:white;
+background-image: url(silverware.jpg);
+color: rgb(64,64,64);
+font-family: Georgia, Garamond, serif;
+font-size: 18pt;}
+
+div {
+text-align: center;}
+
+h1 {
+background-color: rgb(240,240,240); 
+color: rgb(164,164,0);
+font-family: 'Lucida Sans Unicode', Helvetica, arial, sans-serif;
+font-size: 22pt;
+font-weight: bold;
+letter-spacing: 0.25em;
+text-align: center;}
+
+h2 { 
+background-color: rgb(240,240,240); 
+color: rgb(164,164,0);
+font-family: 'Lucida Sans Unicode', Helvetica, arial, sans-serif;
+font-size: 18pt;
+font-weight: normal;
+letter-spacing: 0.25em;
+text-align: center;}
+
+p {
+text-align: center; }
+
+footer {
+font-size: 10pt}
