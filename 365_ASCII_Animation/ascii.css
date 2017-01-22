@@ -1,0 +1,49 @@
+/*
+Victoria L. Hagan
+Folder: victoria014
+CSC.365.001
+HW 5
+Due: 11.24.2014
+ascii.css
+*/
+
+.anchor{
+text-align: right;}
+
+body {
+background-color: #CCCCFF ;
+font-family: sans-serif;
+font-size: 14pt;
+font-weight: bold;
+text-align: center;}
+
+.control {
+border: 5px black solid; 
+display: inline;
+vertical-align: top;
+}
+
+h1 {
+font-size: 32pt;
+font-weight: bold;
+margin: 0;
+padding: 0;}
+
+img {
+text-align: right;
+margin: 0}
+
+textarea{
+width: 90%;
+height: 400px ; 
+font-size: 12pt;
+font-weight: bold;
+font-family: monospace;
+}
+
+
+
+
+
+
+
